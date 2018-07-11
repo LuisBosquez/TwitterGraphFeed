@@ -1,0 +1,467 @@
+{
+        "created_at": "Tue Jul 10 00:52:14 +0000 2018",
+        "id": "1016485213214576640",
+        "id_str": "1016485213214576640",
+        "text": "RT @bobehayes: Predicting Customer Churn with @IBMWatson Studio\n\nI use @IBMWatson to illustrate how #CustomerExperience pros can use #artif…",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1014881814727536600,
+            "id_str": "1014881814727536641",
+            "name": "AI Decisions",
+            "screen_name": "AiDecisions",
+            "location": "Knoxville, TN",
+            "url": null,
+            "description": "Following Artificial Intelligence since the 80's. Cover AI, Machine Learning, and related fields.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 63,
+            "friends_count": 222,
+            "listed_count": 4,
+            "favourites_count": 23,
+            "statuses_count": 549,
+            "created_at": "Thu Jul 05 14:40:55 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1014911754491527168/HKKGGYDL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014911754491527168/HKKGGYDL_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Jul 09 08:00:08 +0000 2018",
+            "id": 1016230506696990700,
+            "id_str": "1016230506696990720",
+            "text": "Predicting Customer Churn with @IBMWatson Studio\n\nI use @IBMWatson to illustrate how #CustomerExperience pros can u… https://t.co/vObNMM7aFe",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20748873,
+                "id_str": "20748873",
+                "name": "Bob E. Hayes",
+                "screen_name": "bobehayes",
+                "location": "Seattle, WA",
+                "url": "http://www.businessoverbroadway.com",
+                "description": "Researcher, writer and consultant, B.O.B. holds a PhD in industrial-organizational psychology. Interests in #datascience #cx #statistics #machinelearning",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 34708,
+                "friends_count": 709,
+                "listed_count": 2861,
+                "favourites_count": 30805,
+                "statuses_count": 56334,
+                "created_at": "Fri Feb 13 04:55:04 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/773045033540853761/8VwNcbyh_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/773045033540853761/8VwNcbyh_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20748873/1523201644",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Predicting Customer Churn with @IBMWatson Studio\n\nI use @IBMWatson to illustrate how #CustomerExperience pros can use #artificialintelligence without the need for programming skills. \n\nhttps://t.co/yG3aVNPw2u \n\n#WatsonStudioPartner @ibmanalytics #machinelearning https://t.co/TMj9iYNVCk",
+                "display_text_range": [
+                    0,
+                    262
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "CustomerExperience",
+                            "indices": [
+                                85,
+                                104
+                            ]
+                        },
+                        {
+                            "text": "artificialintelligence",
+                            "indices": [
+                                118,
+                                141
+                            ]
+                        },
+                        {
+                            "text": "WatsonStudioPartner",
+                            "indices": [
+                                211,
+                                231
+                            ]
+                        },
+                        {
+                            "text": "machinelearning",
+                            "indices": [
+                                246,
+                                262
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/yG3aVNPw2u",
+                            "expanded_url": "http://bit.ly/2Niu7Aw",
+                            "display_url": "bit.ly/2Niu7Aw",
+                            "indices": [
+                                185,
+                                208
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "IBMWatson",
+                            "name": "IBM Watson",
+                            "id": 29735775,
+                            "id_str": "29735775",
+                            "indices": [
+                                31,
+                                41
+                            ]
+                        },
+                        {
+                            "screen_name": "IBMWatson",
+                            "name": "IBM Watson",
+                            "id": 29735775,
+                            "id_str": "29735775",
+                            "indices": [
+                                56,
+                                66
+                            ]
+                        },
+                        {
+                            "screen_name": "IBMAnalytics",
+                            "name": "IBM Analytics",
+                            "id": 267283568,
+                            "id_str": "267283568",
+                            "indices": [
+                                232,
+                                245
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1016230503861620700,
+                            "id_str": "1016230503861620736",
+                            "indices": [
+                                263,
+                                286
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DhpgQlCWkAA8Vou.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DhpgQlCWkAA8Vou.jpg",
+                            "url": "https://t.co/TMj9iYNVCk",
+                            "display_url": "pic.twitter.com/TMj9iYNVCk",
+                            "expanded_url": "https://twitter.com/bobehayes/status/1016230506696990720/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 966,
+                                    "h": 162,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 966,
+                                    "h": 162,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 114,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1016230505161912300,
+                            "id_str": "1016230505161912320",
+                            "indices": [
+                                263,
+                                286
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DhpgQp4XcAAchGS.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DhpgQp4XcAAchGS.jpg",
+                            "url": "https://t.co/TMj9iYNVCk",
+                            "display_url": "pic.twitter.com/TMj9iYNVCk",
+                            "expanded_url": "https://twitter.com/bobehayes/status/1016230506696990720/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 974,
+                                    "h": 479,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 974,
+                                    "h": 479,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 334,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1016230503861620700,
+                            "id_str": "1016230503861620736",
+                            "indices": [
+                                263,
+                                286
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DhpgQlCWkAA8Vou.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DhpgQlCWkAA8Vou.jpg",
+                            "url": "https://t.co/TMj9iYNVCk",
+                            "display_url": "pic.twitter.com/TMj9iYNVCk",
+                            "expanded_url": "https://twitter.com/bobehayes/status/1016230506696990720/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 966,
+                                    "h": 162,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 966,
+                                    "h": 162,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 114,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1016230505161912300,
+                            "id_str": "1016230505161912320",
+                            "indices": [
+                                263,
+                                286
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DhpgQp4XcAAchGS.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DhpgQp4XcAAchGS.jpg",
+                            "url": "https://t.co/TMj9iYNVCk",
+                            "display_url": "pic.twitter.com/TMj9iYNVCk",
+                            "expanded_url": "https://twitter.com/bobehayes/status/1016230506696990720/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 974,
+                                    "h": 479,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 974,
+                                    "h": 479,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 334,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 18,
+            "favorite_count": 25,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CustomerExperience",
+                        "indices": [
+                            85,
+                            104
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/vObNMM7aFe",
+                        "expanded_url": "https://twitter.com/i/web/status/1016230506696990720",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "IBMWatson",
+                        "name": "IBM Watson",
+                        "id": 29735775,
+                        "id_str": "29735775",
+                        "indices": [
+                            31,
+                            41
+                        ]
+                    },
+                    {
+                        "screen_name": "IBMWatson",
+                        "name": "IBM Watson",
+                        "id": 29735775,
+                        "id_str": "29735775",
+                        "indices": [
+                            56,
+                            66
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CustomerExperience",
+                    "indices": [
+                        100,
+                        119
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "bobehayes",
+                    "name": "Bob E. Hayes",
+                    "id": 20748873,
+                    "id_str": "20748873",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "IBMWatson",
+                    "name": "IBM Watson",
+                    "id": 29735775,
+                    "id_str": "29735775",
+                    "indices": [
+                        46,
+                        56
+                    ]
+                },
+                {
+                    "screen_name": "IBMWatson",
+                    "name": "IBM Watson",
+                    "id": 29735775,
+                    "id_str": "29735775",
+                    "indices": [
+                        71,
+                        81
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1531183934869",
+        "_rid": "MShVAKfRaQcBAAAAAAAAAA==",
+        "_self": "dbs/MShVAA==/colls/MShVAKfRaQc=/docs/MShVAKfRaQcBAAAAAAAAAA==/",
+        "_etag": "\"470035fe-0000-0000-0000-5b44033f0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1531183935
+    }
